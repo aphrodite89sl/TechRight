@@ -227,5 +227,3 @@ Contributions are welcome! Please open an issue first to discuss.
 
 MIT
 ```
-
-Remember to tailor your README to your specific project needs while maintaining clarity and completeness.
